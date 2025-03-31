@@ -10,5 +10,4 @@ for (let i = 1; i < numeros.length; i++) {
         mayor = numeros[i];
     }
 }
-
 console.log("El número más grande es:", mayor);
